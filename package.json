@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^27.1.2"
+  }
+}
